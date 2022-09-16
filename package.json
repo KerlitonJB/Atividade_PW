@@ -1,0 +1,19 @@
+{
+  "name": "pw2",
+  "version": "1.0.0",
+  "description": "Gerenciador de Loja de Troca de óleo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "troca",
+    "de",
+    "oleo"
+  ],
+  "author": "Kerliton J. Barbosa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
